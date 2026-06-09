@@ -77,9 +77,9 @@ karthikeyan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-s-devil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-S-devil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-s-devil&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-S-devil&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
